@@ -12,4 +12,4 @@ Repositorio del reto de Inteligencia Artificial Avanzada para la ciencia de dato
 - Gamaliel Marines Olvera - A01708746
 - Jorge Martínez López - A01704518
 - José Emiliano Riosmena Castañón - A01704245
-- Fabian Erubiel Rojas Yañez ' A01706636
+- Fabian Erubiel Rojas Yañez - A01706636
