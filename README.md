@@ -5,8 +5,6 @@ Repositorio del reto de Inteligencia Artificial Avanzada para la ciencia de dato
 <a href="https://github.com/Riosmena/Reto-IA/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Riosmena/Reto-IA"/>
   <img src="https://contrib.rocks/image?repo=Gamaliel-Marines/Gamaliel-Marines"/>
-  <img src="https://contrib.rocks/image?repo=KOKAS-3o14TOS/KOKAS-3o14TOS"/>
-  <img src="https://contrib.rocks/image?repo=FabianRoYa/act3pandas"/>
 </a>
 
 - Gamaliel Marines Olvera - A01708746
